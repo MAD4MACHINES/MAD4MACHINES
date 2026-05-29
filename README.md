@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/Instagram-@mad4machines-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@MAD4MACHINES">
-  <img src="https://img.shields.io/badge/YouTube-MADFORMACHINES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.youtube.com/@madformachines">
+  <img src="https://img.shields.io/badge/YouTube-MAD4MACHINES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
