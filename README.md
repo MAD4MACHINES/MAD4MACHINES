@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.youtube.com/@MAD4MACHINES">
-  <img src="https://img.shields.io/badge/YouTube-MAD4MACHINES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-MADFORMACHINES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
