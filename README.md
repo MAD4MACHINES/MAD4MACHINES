@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Sri Sujith P 👋
+# Hi, I'm Sri Sujith 👋
 
-### Mechatronics Engineering Student | Hardware Builder | Product Prototyper
+### Mechatronics Engineering | Product Prototyping
 
-*"Turning ideas into real-world prototypes."*
+*"building fictional ideas into working prototypes"*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Mechatronics+Engineer+🔧;3D+Printing+%7C+CAD+Design;Hardware+Prototyping+%7C+IoT;Building+Things+That+Actually+Work+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Mechatronics+Engineer🔧+%7C+Product+Design🚀;3D+Printing+%7C+CAD+Design+%7C+Rapid+Prototyping;Autodesk+Fusion+360+%7C+PCB+Design;Python+%7C+Arduino+%7C+IoT)](https://git.io/typing-svg)
 
 <br>
 
